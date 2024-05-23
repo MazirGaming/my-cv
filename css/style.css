@@ -684,7 +684,7 @@ ul.timeline{
 .timeline li{
     border-left: solid 2px #ececec;
     list-style: none;
-    padding: 0 0 40px 30px;
+    padding: 0 0 10px 30px;
 }
 
 .timeline li:before{
